@@ -42,7 +42,7 @@ plan: ""
 
 Prices of Marketplace plans have not been set yet. Prices will be available October 1, 2013, when open enrollment starts and you can begin shopping.
 
-## How Marketplace health plans will be priced
+## How Marketplace health plans will not be priced
 
 All insurance plans available through the Marketplace will be offered by private insurance companies. They will decide which plans to offer and how much each will cost.
 
